@@ -51,7 +51,7 @@ with open("data.txt","w") as fd:
  ```
 
 ### OUTPUT:
-![out](/ppg.png)
+![out](/PUG.png)
 
 
 ## RESULT:
