@@ -25,6 +25,10 @@ Write() is used to write the lines of main file to the empty file or to the dire
 
 ## PROGRAM:
 ```
+#To write a python program for copying the contents from one file to another file.
+#Developed By: Jai Surya
+#Reigister number: 23002572
+
 with open("text.txt","r") as f1:
     data=f1.read()
 with open("data.txt","w") as f2:
@@ -47,7 +51,6 @@ with open("data.txt","w") as fd:
  with open("data.txt","r") as f2:
   data1=f2.read()
   print(data)
-
  ```
 
 ### OUTPUT:
